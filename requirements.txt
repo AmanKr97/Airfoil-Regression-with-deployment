@@ -1,5 +1,5 @@
 ﻿Flask
-hunicorn
+gunicorn
 Jinja2
 Werkzeug
 numpy
